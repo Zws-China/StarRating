@@ -5,7 +5,7 @@
 
 
 # PhotoShoot
-![image](https://github.com/Zws-China/WSCycleScrollView/blob/master/WSCycleScrollView/WSCycleScrollView/scroll.gif)
+![image](https://github.com/Zws-China/StarRating/blob/master/11111.gif)
 
 
 # How To Use
